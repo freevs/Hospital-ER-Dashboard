@@ -35,7 +35,7 @@ To enhance operational efficiency and provide actionable insights into emergency
 ## Recommendations
 * Reduce Average Wait Times: Increase staffing or streamline triage processes during peak hours, as only about 59% of patients are seen within the 30-minute target and average wait times hover around 35 minute.
   
-## Dasboard
+## Dashboard
 
 ![Alt Text](https://github.com/freevs/Hospital-ER-Dashboard/blob/main/images/Monthly%20View.png)
 
