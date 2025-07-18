@@ -37,6 +37,10 @@ To enhance operational efficiency and provide actionable insights into emergency
   
 ## Dasboard
 
-<img src="C:\Users\freev\OneDrive\Desktop/1.png" alt="Dashboard Screenshot" width="600"/>
+![Alt Text](https://github.com/freevs/Hospital-ER-Dashboard/blob/main/images/Monthly%20View.png)
+
+![Alt Text](https://github.com/freevs/Hospital-ER-Dashboard/blob/main/images/Consolidated%20View.png)
+
+![Alt Text](https://github.com/freevs/Hospital-ER-Dashboard/blob/main/images/Patient%20Details.png)
 
 
